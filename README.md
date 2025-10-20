@@ -49,4 +49,4 @@ Usado para criar um volume do Amazon EBS, aumentar a durabilidade de dados e for
 
 #RDS refere-se aos Serviços de Área de Trabalho Remota (Remote Desktop Services) da Microsoft, uma tecnologia que permite aos usuários acessar e interagir com desktops e aplicativos virtualizados em servidores remotos, utilizando o Protocolo de Área de Trabalho Remota (RDP)
 
-
+O diagrama utilizando o EC2 encontra-se na pasta /images
